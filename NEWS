@@ -1,3 +1,13 @@
+sopel-spellcheck 0.0.2
+======================
+
+Fixed:
+* Packaging error
+
+Meta:
+* We use `setup.cfg` for requirements now; no more `requirements.txt`
+
+
 sopel-spellcheck 0.0.1
 ======================
 

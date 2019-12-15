@@ -2,7 +2,7 @@ build/
 dist/
 env/
 MANIFEST
-sopel-spellcheck.egg-info/*
+sopel_spellcheck.egg-info/*
 *.pyc
 *.pyo
 *~
